@@ -1,4 +1,4 @@
-# Hello World! this is my GitHub Repository:
+# Hello World! This is my GitHub Repository:
 I'm currently studying Computer Science at Positivo University, in my 6th semester.
 
 ![](https://github-readme-stats.vercel.app/api?username=KKKODAKI&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>

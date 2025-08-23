@@ -1,7 +1,7 @@
 # Hello World! This is my GitHub Repository:
 I'm currently studying Computer Science at Positivo University, in my 6th semester.
 
-![](https://github-readme-stats.vercel.app/api?username=KKKODAKI&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Tiepokk&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 
 
 # Tech Stack:
@@ -25,7 +25,7 @@ I'm currently studying Computer Science at Positivo University, in my 6th semest
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
 #
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KKKODAKI&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tiepokk&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 
 

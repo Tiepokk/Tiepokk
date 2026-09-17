@@ -1,5 +1,5 @@
 # Hello World! This is my GitHub Repository:
-I'm currently studying Computer Science at Positivo University, in my 6th semester.
+I'm currently studying Computer Science at Positivo University, in my 8th semester.
 
 ![](https://github-readme-stats.vercel.app/api?username=Tiepokk&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 
